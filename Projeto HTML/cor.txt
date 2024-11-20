@@ -1,0 +1,3 @@
+MediumSlateBlue #7B68EE	(123,104,238)
+MediumPurple	#9370DB	(147,112,219)
+BlueViolet	#8A2BE2  (138,43,226)
